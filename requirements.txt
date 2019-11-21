@@ -8,7 +8,7 @@ netaddr
 numpy
 oktest
 paramiko
-petname == 2.2
+petname == 2.1
 prest
 prettytable
 psutil
